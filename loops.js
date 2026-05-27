@@ -1,3 +1,6 @@
+//This is Zanda here.
+//I have created an array called numbers with valuse 1 through 5.
+// I have written a for loop that prints each number in the array
 // This script demonstrates the use of for and while loops to iterate through an array of numbers.
 const numbers = [1, 2, 3, 4, 5];
 
