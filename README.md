@@ -1,16 +1,17 @@
-# Loops-and-function-basics-JavaScript-Exercise-5-and-6
+# JavaScript-Exercise-5-and-6
 # Loops and Function basics exercise
 
-**Contributors:** Karah, 
+**Contributors:** Karah, Zanda and Purrity
 
 ## What It Does
-You will learn how to create and use functions in JavaScript. You'll practice writing functions that take
-parameters, return values, and perform specific tasks. This will help you understand how to organize
-your code into reusable blocks and make your programs more efficient and maintainable.
+For Exercise 5 - Loops:
+
+For Exercise 6 - Function basics:
 
 ## How to Run
 ```bash
-node conditionals.js
+node loops.js
+node functions.js
 ```
 
-Output: `Passed` or `Failed`
+Output: 
