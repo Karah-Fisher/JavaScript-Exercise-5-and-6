@@ -24,4 +24,4 @@ for (let i = 0; i < numbers.length; i++) {
   }
 }
 //Thanks Karah.
-//Purrity can you help me with creating a loop that calculates the sum of all numbers in the array.
+//Purrity can you help me with creating a loop that calculates the sum of all numbers in the array?
