@@ -13,3 +13,10 @@ while (numbers.length > 0) {
 }
 //l need help with creating a loop that prints only even numbers from the numbers array.
 // Can Karah please help me with that?
+
+// No problem Zanda! Here's that array you asked for.
+for (let i = 0; i < numbers.length; i++) {
+  if (numbers[i] % 2 === 0) {
+    console.log(numbers[i]);
+  }
+}
