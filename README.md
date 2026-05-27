@@ -1,0 +1,1 @@
+# Loops-and-function-basics-JavaScript-Exercise-5-and-6
