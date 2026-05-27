@@ -10,7 +10,11 @@ function greet (name){
 function add(a, b){
   return a+b;
 }
-
+//Purrity here, i will call both functions and store their results in variables and print the results to the console
+let greeting = greet ("Alice");
+let sum = add (5,3);
 console.log(greeting);
 console.log(sum);
+
+
 
