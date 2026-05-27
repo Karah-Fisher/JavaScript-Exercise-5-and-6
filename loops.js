@@ -25,3 +25,10 @@ for (let i = 0; i < numbers.length; i++) {
 }
 //Thanks Karah.
 //Purrity can you help me with creating a loop that calculates the sum of all numbers in the array?
+//No problem Zanda here is the loop that calculates the sum of all numbers in the array
+let sum = 0;
+for (let i = 0; i <numbers.length; i++){
+    sum += numbers[i];
+}
+console.log(sum);
+//Purrity  Created a loop that calculates the sum of all numbers in the array
